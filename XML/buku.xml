@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tokobuku>
+	<buku>
+		<judul>Pulang</judul>
+		<genre>Fiksi</genre>
+		<pengarang>Tere Liye</pengarang>
+		<penerbit>Republika</penerbit>
+		<tahun>2015</tahun>
+		<harga>58650</harga>
+	</buku>
+	<buku>
+		<judul>Aku</judul>
+		<genre>Biografi</genre>
+		<pengarang>Sjuman Djaya</pengarang>
+		<penerbit>Gramedia</penerbit>
+		<tahun>2016</tahun>
+		<harga>42500</harga>
+	</buku>
+	<buku>
+		<judul>Sepotong Senja Untuk Pacarku</judul>
+		<genre>Fiksi</genre>
+		<pengarang>Seno Gumira Ajidarma</pengarang>
+		<penerbit>Gramedia</penerbit>
+		<tahun>2016</tahun>
+		<harga>59500</harga>
+	</buku>
+	<buku>
+		<judul>Intelegensi Embun Pagi</judul>
+		<genre>Fiksi</genre>
+		<pengarang>Dee Lestari</pengarang>
+		<penerbit>Mizan</penerbit>
+		<tahun>2016</tahun>
+		<harga>100300</harga>
+	</buku>
+</tokobuku>
